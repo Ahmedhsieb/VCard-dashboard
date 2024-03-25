@@ -1,0 +1,14 @@
+{
+    "name": "ahmed/vcard",
+    "description": "This is project for make custom vcard for user",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ahmed\\Vcard\\": "src/"
+        },
+        "files": [
+            "src/core/support/helper.php"
+        ]
+    },
+    "require": {}
+}
